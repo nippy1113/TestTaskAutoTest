@@ -1,0 +1,8 @@
+# folders
+.allure
+.idea
+target
+
+# files
+*.iml
+*.log
